@@ -90,7 +90,7 @@ const apiResult =
 
 
 const API_URL =
-    "http://127.0.0.1:8000";
+    "https://portifolio-security-api.onrender.com";
 
 
 if (analyzeBtn && domainInput) {
