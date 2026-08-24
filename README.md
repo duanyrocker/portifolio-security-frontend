@@ -102,10 +102,6 @@ portifolio-security-frontend/
 ├── style.css
 ├── script.js
 │
-├── assets/
-│   ├── images/
-│   └── icons/
-│
 └── README.md
 ```
 
