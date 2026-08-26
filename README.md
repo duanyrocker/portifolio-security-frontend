@@ -5,7 +5,7 @@ Frontend do meu portfólio profissional, desenvolvido para apresentar minha traj
 O projeto foi construído do zero utilizando **HTML, CSS e JavaScript**, com uma interface inspirada em ambientes de segurança e terminais de sistemas.
 
 🌐 **Acesse o portfólio:**
-https://duanyrocker.github.io/portifolio-security-frontend/
+https://duanyrocker.github.io/portifolio-security
 
 ---
 
